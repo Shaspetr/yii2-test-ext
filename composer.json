@@ -1,0 +1,21 @@
+{
+    "name": "petr-test-ext/yii2-test-ext",
+    "description": "тестовое расширение yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Petr",
+            "email": "Shaspetr@test.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "petr\\testext\\": ""
+        }
+    }
+}
