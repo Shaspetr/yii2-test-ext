@@ -18,10 +18,4 @@
             "petr\\testext\\": ""
         }
     }
-	"repositories":[
-    {
-        "type": "git",
-        "url": "https://github.com/Shaspetr/yii2-test-ext.git"
-    }
-	]
 }
